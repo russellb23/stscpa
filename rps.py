@@ -1,4 +1,6 @@
 """ Rock, Paper & Sciccors game in python """
+# Author: Russell Bertrand
+
 import random
 from collections import Counter
 
